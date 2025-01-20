@@ -21,4 +21,9 @@ Clients wants to create a adiddas sales analysis so that they can have insight o
 4. Total Sales by Product (Bar Chart):
 5.Total Sales by Retailer (Bar Chart):
 ## dashboard interface
+- <a href="https://github.com/sudheerbabuk14/adidas-sales-analysis-power-bi-dashboard/blob/main/Screenshot%202025-01-20%20124919.png"> dashboard </a>
+## conclusion
 
+It appears you've uploaded a Power BI file (.pbix) for Adidas sales analysis. Unfortunately, I cannot directly open or analyze the contents of the .pbix file. However, if you can provide specific details or export the analysis (e.g., screenshots, data summaries, or key metrics), I'd be happy to help draw conclusions or provide insights.
+
+## reports
