@@ -27,3 +27,4 @@ Clients wants to create a adiddas sales analysis so that they can have insight o
 It appears you've uploaded a Power BI file (.pbix) for Adidas sales analysis. Unfortunately, I cannot directly open or analyze the contents of the .pbix file. However, if you can provide specific details or export the analysis (e.g., screenshots, data summaries, or key metrics), I'd be happy to help draw conclusions or provide insights.
 
 ## reports
+- <a href="https://github.com/sudheerbabuk14/adidas-sales-analysis-power-bi-dashboard/blob/main/power%20bi%20adidas%20sales%20analysis%20's.pbix"> addidas dashboard</a>
