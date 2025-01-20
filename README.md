@@ -3,7 +3,7 @@
 ## used data
 - <a href="https://github.com/sudheerbabuk14/adidas-sales-analysis-power-bi-dashboard/blob/main/Adidas%20US%20Sales%20Datasets.xlsx" > used data </a>
 
-##objectives
+## objectives
 Clients wants to create a adiddas sales analysis so that they can have insight on the below requirements-
 
 ## kpi reuirnment
