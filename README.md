@@ -28,3 +28,5 @@ It appears you've uploaded a Power BI file (.pbix) for Adidas sales analysis. Un
 
 ## reports
 - <a href="https://github.com/sudheerbabuk14/adidas-sales-analysis-power-bi-dashboard/blob/main/power%20bi%20adidas%20sales%20analysis%20's.pbix"> addidas dashboard</a>
+## sql analysis report
+- <a href="https://github.com/sudheerbabuk14/adidas-sales-analysis-power-bi-dashboard/blob/main/adidas%20sales%20sql%20report.sql"> sql report <a/>
