@@ -6,7 +6,7 @@
 ## objectives
 Clients wants to create a adiddas sales analysis so that they can have insight on the below requirements-
 
-## kpi reuirnment
+## kpi requirnment
 
 1.Total Sales Analysis:
 2. Profitability Analysis:
